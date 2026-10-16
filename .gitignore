@@ -1,0 +1,4 @@
+downloaded-files/
+*.db
+categories-*.json
+__pycache__/
